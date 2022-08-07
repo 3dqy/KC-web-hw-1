@@ -1,0 +1,37 @@
+      .ul {color: #00539cff;
+      }
+
+         ul :hover{ background-color: beige; border-radius: 30%;
+            transition: all 0.5s;}
+
+     .fifa{
+     margin-right: 60px;margin-left: 70px;}
+
+     .cod{
+     margin-right: 60px;
+      }
+     
+
+li {
+    display: inline-flex ;font-size: 260%;margin-left: 160px;
+}
+div{
+    border-radius: 9.9%;
+    padding: auto;
+    height: 300px;width: 1100px;
+    background-color: #00539cff;
+margin: 55px;margin-top: 40px;
+}
+    
+h2{
+    font-size: 300%;
+    background-color: #00539cff ;width: 550px; height: 85px
+; color:beige;margin: auto;
+    text-align:center; padding: auto; border-radius: 25%;
+}
+ul {
+    list-style-type: none;
+}  
+     
+
+     
